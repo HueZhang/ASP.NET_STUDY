@@ -118,6 +118,7 @@ builder.Services.AddSwaggerGen(options =>
     });
 });
 
+
     
 // ×¢Èë²Ö´¢
 builder.Services.AddScoped<StudentRepository>();

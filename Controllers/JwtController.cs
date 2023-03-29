@@ -8,7 +8,7 @@ namespace WebApi.Controllers
     /// 
     /// </summary>
     /// 
-    [Route("api/[controller]")]
+    [Route("api/[controller]/[action]")]
     [ApiController]
     public class JwtController : Controller
     {
